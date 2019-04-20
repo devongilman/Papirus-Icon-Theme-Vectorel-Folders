@@ -5,6 +5,8 @@
   
 </p>
 
+<p align="center"><a href='https://ko-fi.com/B0B2TZMH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+
 <p align="center">
   <img alt="apps" src="https://img.shields.io/badge/apps_icons-3200%2B-5294e2.svg?style=flat-square"/>
   <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-5294e2.svg?style=flat-square"/>
